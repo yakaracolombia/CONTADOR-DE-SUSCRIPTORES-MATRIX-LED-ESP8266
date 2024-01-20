@@ -1,0 +1,16 @@
+{
+  "files" : [ {
+    "remoteURL" : "http://arduino.esp8266.com/stable/package_esp8266com_index.json",
+    "localPath" : "C:\\Users\\yakara\\Downloads\\Arduino IDE Portable\\portable\\cache\\arduino.esp8266.com\\stable\\package_esp8266com_index.json",
+    "eTag" : "6418dd84-2c51e",
+    "md5" : "MD5:2ac244743dae55f1459223f40ec0e862",
+    "createdAt" : "2024-01-20T07:37:47.113",
+    "cacheControl" : {
+      "maxAge" : 600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2024-01-20T07:47:47.113"
+  } ]
+}
