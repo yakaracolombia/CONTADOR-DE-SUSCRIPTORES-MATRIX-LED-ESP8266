@@ -1,4 +1,4 @@
-
+*Contador de Suscriptores de Youtube con ESP8266*
 
 
 "Proyecto original de https://github.com/witnessmenow/LED-Matrix-YouTube-Sub-Display
@@ -11,10 +11,14 @@ https://github.com/2dom/PxMatrix
 y tambien de la Api de Youtube del asombroso Brian Lough
 https://github.com/witnessmenow
 
-Características:
+*Características:*
+
+Hace uso de un modulo WEMOS D1 MINI ESP8266 super economico que puedes adquirir aqui: https://s.click.aliexpress.com/e/_DdnSurB
 
 Adaptado a paneles matrix P3 de 64x64 que puedes adquirir aqui: https://s.click.aliexpress.com/e/_DmRn9VX
+
 Compatible con paneles P2.5 de 64x32 que puedes adquirir aqui: https://s.click.aliexpress.com/e/_DCwufOD
+
 arduino IDE precompilado y portable
 Varios tamaños de logo para seleccionar (SOLO PARA PANELES DE 64X64)
 
